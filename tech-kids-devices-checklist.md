@@ -20,3 +20,9 @@
 
 * Clean ports with a toothpick
 * Wipe down device
+
+## Charging
+
+* Plug in Mouse
+* Plug in keyboard
+* Make sure mobile devices are plugged in
